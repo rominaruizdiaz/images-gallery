@@ -35,7 +35,7 @@ main {
 section {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  column-gap: 24px;
+  gap: 24px;
 }
 article {
   display: flex;
